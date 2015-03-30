@@ -1,0 +1,356 @@
+Michel Georges
+okay you are setting up an investment system
+explain
+
+14:43
+Chris Kennedy
+Yeah
+Okay well I'm doing a course on programming and databases etc
+But I'm doing a project on building an investment system
+I can build it np for the application and the webpage and database behind that's all fine
+
+14:44
+Michel Georges
+okay
+
+14:44
+Chris Kennedy
+But to make it look as professional as possible I was hoping to get some input from yourself on
+what someone in the business sector would look for in a webpage, both; on the initial look of the page and then if they registered 
+etc and then from a login point of view
+
+14:44
+Michel Georges
+but what do you need
+like how can i help
+what insight
+
+14:44
+Chris Kennedy
+Advice on what a blood leeching business fuck would look for
+What mindframe would someone who's interested in investing, look for aesthetically
+The functionality behind I can work with I just need ideas on what you would find to be good
+
+14:45
+Michel Georges
+this: http://www.bloomberg.com/
+
+14:45
+Chris Kennedy
+You study economics I gather some business side behind that interms of marketing you must have touched on
+
+14:45
+Michel Georges
+make it look
+like a wallet
+make them feel important
+people that are in business generally are entitled and feel pre-ordained
+so my assumption is milk it
+put stock shares the go from left to right etc. what new investment opportunities are on the rise
+in the near future
+the mentality of a business man is cut to the chase
+give me information i need
+thats useful. dont give me any fat. just lean meat, data, and useful data
+
+14:48
+Chris Kennedy
+Mk
+
+14:48
+Michel Georges
+and plenty of propaganda shit
+
+14:48
+Chris Kennedy
+This is really useful
+
+14:48
+Michel Georges
+left wing right wing
+
+14:49
+Chris Kennedy
+Yeah I was thinking the mindset of: "Give the psychopaths numbers, charts and a minimal layout that is terse"
+
+14:49
+Michel Georges
+yes
+exactly
+
+14:49
+Chris Kennedy
+Okay critical part, I hope you're not busy btw
+What would you remove/add to the bloomberg site
+What seems pointless and missing
+
+14:49
+Michel Georges
+i am exam at 7pm but i dont care
+
+14:50
+Chris Kennedy
+Oh okay
+fuck it
+I'm more special
+
+14:50
+Michel Georges
+http://www.theglobeandmail.com/globe-investor/investment-ideas/
+
+14:50
+Chris Kennedy
+So what would you add / remove
+
+14:50
+Michel Georges
+you have to put yourself in the mindset
+of a curious investor
+maybe some gaming companies like riot
+i bet their stock share is fucking high atm
+advice lots and lots of advice
+maybe some politicartoons here and there
+that pander to wall street facists
+
+14:52
+Chris Kennedy
+Mk mk
+Excuse my naivity but aren't wall street = investors?
+
+14:52
+Michel Georges
+if you gave me more info i'd be less useless.
+yes.
+
+14:52
+Chris Kennedy
+Lol kk
+
+14:53
+Michel Georges
+let me explain
+http://www.theglobeandmail.com/life/the-hot-button/stockbrokers-more-reckless-than-psychopaths-study/article617730/
+thats why they like to see the figures and the lean data
+because they are fucked up people:P
+
+14:54
+Chris Kennedy
+I can relate
+I'm a partial sociopath so I'm told
+But basically to make you understand why i'm doing this is
+I'm focused more on the security of the site
+
+14:55
+Michel Georges
+but yeah. lots of investment opportunity articles. Stock market numbers. make it look business-like
+these people go to work in a suite and tie
+and go to sleep in them
+so they like it tidy because it means status
+
+14:56
+Chris Kennedy
+And the encryption mechanism and database setup is all done with impenetrable results
+
+14:56
+Michel Georges
+so the more tidy and businessy thge more they will take you serious
+
+14:56
+Chris Kennedy
+Okay
+Well I was looking at these example sites
+Which all had that multicultural smiley faces and shit
+I was thinking of bypassing that
+Show examples of statistics charts organisation of which
+
+14:56
+Michel Georges
+oh and business people still wear 100 000 dollar watches because it means status even though our fone has a clock
+
+14:57
+Chris Kennedy
+And keep mentioning that it's secure
+
+14:57
+Michel Georges
+so put a watch up maybe. and have it sponsored by omega
+or something more expensive
+
+14:57
+Chris Kennedy
+Kk
+So it's all ego feeding
+I want to tailor thissite to their ego
+
+14:57
+Michel Georges
+and numbers
+yep
+
+14:57
+Chris Kennedy
+show minimal amounts of text
+
+14:57
+Michel Georges
+also
+fear mongering is great
+
+14:57
+Chris Kennedy
+Figures figures figures and data
+How so?
+
+14:58
+Michel Georges
+make your clients insecure as to NEED you
+like
+
+14:58
+Chris Kennedy
+Give me and example of which
+
+14:58
+Michel Georges
+once in a while in your news articles
+include one or 2 that instigate a little shit your pantsyness
+dow jones closes at all time low
+or
+oil supplies running low
+shit like tha
+t
+if all is good in the hood all the time then there's no reason to read the news
+coz
+allz good
+erryday
+
+15:00
+Chris Kennedy
+Hmm okay
+So be pessimistic with news feeds?
+Show whats being fucked
+
+15:00
+Michel Georges
+no be optimistic and have a few here and there that are scary
+
+15:00
+Chris Kennedy
+Rather than +2 points to john does farm wor whatever
+
+15:00
+Michel Georges
+variation is key
+
+15:00
+Chris Kennedy
+Okay
+How would you quantify it, in terms of balance
+4 good news 1 bad?
+
+15:01
+Michel Georges
+no. 1-1 i think would be better. so its like a news source. people want to hear good news about themselves and bad news about others.
+LIBERALS PUSH BILL TO TAX STOCK REVENUE
+etc
+doesnt mean the bill has passed
+nor will it
+but it might happen
+but the title says it is going to happen
+thats how fox news does it
+god i should never work
+i'd be the most horrible extortionist ever
+like mormons preying on single mothers
+
+15:03
+Chris Kennedy
+Okay
+So mind games and back and forth with balance
+Between good nad bad
+
+15:04
+Michel Georges
+concur
+and lota data
+dont forget stock market ups and downs
+dono if u can take that from bloomberg i dono how to program
+
+15:05
+Chris Kennedy
+I can do that myself with c#
+Don't sweat about making the programs I can make that shit work
+
+15:05
+Michel Georges
+okay
+
+15:05
+Chris Kennedy
+few late nights and a pot of coffee
+
+15:05
+Michel Georges
+and dead hookers
+
+15:05
+Chris Kennedy
+It's the effective layout and psychology behind it that I want
+
+15:05
+Michel Georges
+wallstreet loves those
+
+15:05
+Chris Kennedy
+I have a mate with a psychology Hdeg helping me with the psychology aswell and your help is awesome too
+This project will fucking destroy mayne
+
+15:06
+Michel Georges
+as soon as they go to your website a pop up comes up:
+Jesus
+ACCEPT REJECT
+if you accept: 404 not found
+Reject /r/atheism redirect
+my webby is better
+
+15:07
+Chris Kennedy
+hahaha
+brilliant
+If you have any suggestions or find any good examples or bad examples please send em on to me, just going to afk for a few mins
+Cheers for the help bro 
+
+15:08
+Michel Georges
+im guna get back to study
+i hope i did
+remember keep it business like
+with a suite and watch!
+
+15:08
+Chris Kennedy
+More than you can imagine
+
+15:08
+Michel Georges
+peace
+
+15:08
+Chris Kennedy
+Kk
+
+15:09
+Michel Georges
+also the more big name sponsors you have the more you'll seem important
+jet adverts
+expensive shit
+like that magazine
+
+15:15
+Michel Georges
+http://www.youtube.com/watch?v=gO1q8Zwuc24
+
+15:35
+Chris Kennedy
+Well the idea is that I want to focus more on enticing them to the page and show them on their portfolio pages their specific pages and stocks that they subscribe to feed them RSS streams of stocks and expensive business stocks that they may be "watching" or what have you
+But the advice you gave me was awesome help tyvm and this track is class lol

@@ -1,0 +1,5 @@
+https://www.tradingview.com/
+http://www.financialcontent.com/services/online/stock_market_widgets.php
+http://www.smoothdivscroll.com/runningTicker.html
+http://www.codeproject.com/Articles/9258/A-Fast-CSV-Reader
+http://www.shabdar.org/asp-net/73-online-stock-streaming-using-aspnet.html

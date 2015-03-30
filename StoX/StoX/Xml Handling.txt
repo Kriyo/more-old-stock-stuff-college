@@ -1,0 +1,1 @@
+http://www.codeproject.com/Articles/37550/Stock-quote-and-chart-from-Yahoo-in-C

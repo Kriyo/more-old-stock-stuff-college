@@ -1,0 +1,2 @@
+http://www.unlimitednovelty.com/2012/03/dont-use-bcrypt.html
+http://msdn.microsoft.com/en-us/magazine/cc163913.aspx

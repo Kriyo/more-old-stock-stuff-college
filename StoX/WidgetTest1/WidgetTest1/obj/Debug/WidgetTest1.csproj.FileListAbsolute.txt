@@ -1,0 +1,60 @@
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\WidgetTest1.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\WidgetTest1.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\Antlr3.Runtime.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.Core.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\EntityFramework.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\System.Web.Optimization.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\System.Web.Providers.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\WebGrease.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\EntityFramework.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.Core.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\obj\Debug\WidgetTest1.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\obj\Debug\WidgetTest1.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\WidgetTest1\WidgetTest1\obj\Debug\WidgetTest1.pdb
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\WidgetTest1.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\WidgetTest1.pdb
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\Antlr3.Runtime.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.Core.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\EntityFramework.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\System.Web.Optimization.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\System.Web.Providers.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\WebGrease.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\EntityFramework.xml
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.Core.xml
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\obj\Debug\WidgetTest1.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\obj\Debug\WidgetTest1.dll
+C:\Users\Chris\Desktop\Project en[Kri]ption\WidgetTest1\WidgetTest1\obj\Debug\WidgetTest1.pdb

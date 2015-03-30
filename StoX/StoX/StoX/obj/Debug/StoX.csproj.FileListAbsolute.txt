@@ -1,0 +1,120 @@
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\StoX.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\StoX.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\Antlr3.Runtime.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.Core.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\EntityFramework.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\System.Web.Optimization.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\System.Web.Providers.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\WebGrease.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\EntityFramework.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.Core.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\obj\Debug\StoX.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\obj\Debug\StoX.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\StoX\StoX\obj\Debug\StoX.pdb
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\StoX.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\StoX.pdb
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\Antlr3.Runtime.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.Core.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\EntityFramework.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\System.Web.Optimization.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\System.Web.Providers.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\WebGrease.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\EntityFramework.xml
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.Core.xml
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Kri\Desktop\StoX\StoX\StoX\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Kri\Desktop\StoX\StoX\StoX\obj\Debug\StoX.csprojResolveAssemblyReference.cache
+C:\Users\Kri\Desktop\StoX\StoX\StoX\obj\Debug\StoX.dll
+C:\Users\Kri\Desktop\StoX\StoX\StoX\obj\Debug\StoX.pdb
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\StoX.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\StoX.pdb
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\Antlr3.Runtime.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.Core.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\EntityFramework.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\System.Web.Optimization.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\System.Web.Providers.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\WebGrease.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\EntityFramework.xml
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.Core.xml
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\obj\Debug\StoX.dll
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\obj\Debug\StoX.pdb
+C:\Users\Chris\Dropbox\StoX\StoX\StoX\obj\Debug\StoX.csprojResolveAssemblyReference.cache
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\StoX.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\StoX.pdb
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\Antlr3.Runtime.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\AspNet.ScriptManager.jQuery.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.AspNet.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.Core.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\EntityFramework.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\Microsoft.ScriptManager.WebForms.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\Microsoft.Web.Infrastructure.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\System.Web.Optimization.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\System.Web.Providers.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\WebGrease.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\EntityFramework.xml
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.Core.xml
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.xml
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.xml
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\DropBox\Dropbox\StoX\StoX\StoX\bin\DotNetOpenAuth.AspNet.xml
+D:\DropBox\Dropbox\StoX\StoX\StoX\obj\Debug\StoX.csprojResolveAssemblyReference.cache
+D:\DropBox\Dropbox\StoX\StoX\StoX\obj\Debug\StoX.dll
+D:\DropBox\Dropbox\StoX\StoX\StoX\obj\Debug\StoX.pdb

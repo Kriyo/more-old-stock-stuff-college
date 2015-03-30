@@ -1,0 +1,16 @@
+https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
+https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet
+
+
+Also, it's crucial that you turn off HTTP TRACE support on all webservers.
+An attacker can steal cookie data via Javascript even when document.cookie is disabled
+ or not supported on the client.
+This attack is mounted when a user posts a malicious script to a forum so when another user clicks the link,
+ an asynchronous HTTP Trace call is triggered which collects the user's cookie information from the server,
+ and then sends it over to another malicious server that collects the cookie information so the attacker
+ can mount a session hijack attack. 
+This is easily mitigated by removing support for HTTP TRACE on all webservers.
+
+http://stackoverflow.com/questions/945193/how-do-i-find-the-stack-trace-in-visual-studio
+
+http://code.google.com/p/browsersec/
